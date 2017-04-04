@@ -117,13 +117,85 @@ getsumatsu :: final do mes
 tsukichuujun :: metade do mes
 tsukinaka :: meio do mes
 
-kyooshi :: professor
-gakusee :: aluno
+shokugyou :: Oculpação
+suchuwadesu :: Aeromoça
+rihatsushi :: Barbeiro
+bengoshi :: Advogado
+fudousan gyousha :: Agente imobiliário
+noumin :: Agricultor
+jidou :: Aluno do nível fundamental
+seito :: Aluno do nível médio
+gakusei :: Aluno do nível superior
 dai gakusee :: aluno universitario
+/*ver sobre dai gakuse*/
+kenchikuka :: Arquiteto
+geijutsuka :: Artista
+yakusha :: Ator/Atriz/Intérprete
+haiyuu :: Ator/Intérprete
+joyuu :: Atriz
+sakka :: Autor/Gravador
+ginkouin :: Bancário
+tokoya :: Barbeiro
+shouboushi :: Bombeiro
+biyoushi :: Cabeleireiro/Artista beleza
+kashu :: Cantor
+daiku :: Carpinteiro
+uranaishi :: Cartomante/Adivinho
+ryoushi :: Caçador
+ryourichou :: Chef/Master Chef
+shefu :: Chefe de cozinha
+ryourinin :: chefe de cozinha
+chourishi :: chefe de cozinha
+kagakusha :: Cientista
+untenshu :: Condutor/Motorista
+koushi :: Conferencista
+kaikeishi :: Contador
+kokku :: Cozinheiro
+shikai :: Dentista
+mushokusha :: Desempregado
+tantei :: Detetive
+kantoku :: Diretor de filme
 shufu :: dona de casa
-enjinia :: engenheiro
-koomuin :: funcionario publico
-kaishain :: funcionario de empresa privada
+kangoshi :: Enfermeira(o)
+kangofu :: Enfermeira
+gishi :: Engenheiro/Tecnólogo
+enjinia :: Engenheiro
+shashinka :: Fotógrafo
+kaishain :: Funcionário da empresa (privada)
+koumuin :: Funcionário Público/Governo
+sarariiman :: Homem assalariado
+yakyuu senshu :: Jogador de baseball
+sakkaa senshu :: Jogador de futebol
+jaanarisuto :: Jornalista
+saibankan :: Juíz
+ensouka :: Músico de execução
+ooeru :: Office lady/Garota que trabalha em escritório
+enzetsuka :: Orador
+bokushi :: Pastor/Clérigo
+ryoushi :: pescador
+kenkyuuin :: pesquisador
+kichou :: Piloto/Capitão
+pairotto :: Piloto
+gaka :: Pintor/Artista
+omawarisan :: Poliicial (termo amigável)
+keikan :: Policial
+keisatsukan :: Policial
+seijika :: Político
+enshutsuka :: Produtor/Diretor
+kyoushi :: Professor (Acadêmico)
+sensei :: Professor (Mestre)
+kyouju :: Professor
+kisha :: Repórter
+hisho :: Secretário
+keibiin :: Segurança
+heishi :: Soldado
+kantoku :: Supervisor/Superintendente
+furiitaa :: Trabalhador de tempo parcial
+hakenshain :: Trabalhador temporário
+kantoku :: Treinador
+tenin :: Venderdor
+isha :: Médico
+
 
 otto :: marido
 tsuma :: mulher (quando se tratando do casal: marido e mulher)

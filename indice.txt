@@ -1,0 +1,26 @@
+ARQUIVO QUE MOSTRA UM INDICE DOS ASSUNTOS NO QUALCARD PARA FACILITAR A LEITURA:
+- (1-8) pronomes
+- (9-23) honorificos
+- (24-33) cumprimentos
+- (34-40) despedidas
+- (41-47) dias da semana
+- (48-57) palavras sobre as semanas
+- (58-88) dias do mes
+- (89-100) meses do ano
+- (101-108) palavras sobre os meses
+- (109-186) trabalhos
+- (187-202) familiares
+- (203-215) paises da america do sul
+- (216-235) paises da america central
+- (236-239) paises da america do norte
+- (240-277) paises da europa
+- (278-282) tipos de manga'
+- (283-305) cores
+- (306-310) estacoes do ano
+- (311-329) comidas (pratos)
+- (330-377) doces
+- (378-415) frutas
+- (416-451) legumes/vegetais/raizes
+- (452-497) bebidas
+- () 
+
